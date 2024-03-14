@@ -1,3 +1,4 @@
+![logo](https://github.com/Pooja142/Pooja142/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Pooja Shankar Rathod</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
