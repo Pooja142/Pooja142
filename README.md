@@ -5,13 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja142&label=Profile%20views&color=0e75b6&style=flat" alt="pooja142" /> </p>
 - 🌱 I’m currently learning **Aws, Springboot**
 
-- 🔭 I’m currently working on a Project called **Ecommerce Admin Panel**
-
 - 👨‍💻 All of my projects are available at [github.com/Pooja142](github.com/Pooja142)
 
 - 💬 Ask me about **React, Angular, Java, Python**
 
-- 📫 How to reach me **rathod.pooja1401@gmail.com**
+- 📫 How to reach me **poojarathod1401@gmail.com**
 
 - ⚡ Fun fact **I like coding & writing articles.**
 
